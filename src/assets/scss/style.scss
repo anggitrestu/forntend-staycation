@@ -131,6 +131,7 @@ section {
     border-radius: 0.9375rem;
     overflow: hidden;
   }
+
   .meta-wrapper {
     margin-top: 1rem;
     h5 {
@@ -235,4 +236,11 @@ main {
 
     font-weight: 300;
   }
+}
+
+.h500 {
+  max-height: 500px;
+}
+.h245 {
+  max-height: 245px;
 }

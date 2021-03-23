@@ -47,10 +47,10 @@ const Hero = (props) => {
                   width="36"
                   height="36"
                   src={IconTraveler}
-                  alt={`${props.data.travelers} Travellers`}
+                  alt={`${props.data.travellers} Travellers`}
                 />
                 <h6 className="mt-3">
-                  {formatNumber(props.data.travelers)}{' '}
+                  {formatNumber(props.data.travellers)}{' '}
                   <span className="text-gray-500 font-weight-light">
                     travellers
                   </span>
